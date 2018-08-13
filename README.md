@@ -1,1 +1,1 @@
-# Machine-learning-NN
+# CFAR10-NN
